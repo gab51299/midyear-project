@@ -1,0 +1,2 @@
+* Headers are denoted by <h#>, where # is the number. 1 is always (?) the main header
+
